@@ -32,7 +32,7 @@ Mit TensorFlow und Keras bietet sich jetzt die Möglichkeit, diese hoch komplexe
 * Übungen
    * Arbeiten mit Daten
    * Vorhersage mit Feed-Forward-Netzen
-   * Klassifikation von Bilddaten
+   * Klassifikation von Bilddaten (Convolutional-Netz)
 
 ## Zeitlicher Ablauf
 * ab 8.40: Registrierung und Begrüßungskaffee
