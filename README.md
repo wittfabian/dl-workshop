@@ -23,9 +23,9 @@ Dark Science mit Deep Learning: Einführung in modernes Maschinelles Lernen mit 
 * Grundlagen zum Thema Künstliche Intelligenz, Maschinelles Lernen und Deep Learning
 * [Tensorflow](https://www.tensorflow.org/) & [Keras](https://keras.io/)
 * Übungen
- * Arbeiten mit Daten
- * Vorhersage mit Feed-Forward-Netzen
- * Klassifikation von Bilddaten
+   * Arbeiten mit Daten
+   * Vorhersage mit Feed-Forward-Netzen
+   * Klassifikation von Bilddaten
 
 ## Zeitlicher Ablauf
 * ab 8.40: Registrierung und Begrüßungskaffee
