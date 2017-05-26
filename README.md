@@ -24,6 +24,7 @@ Mit TensorFlow und Keras bietet sich jetzt die Möglichkeit, diese hoch komplexe
         * TensorFlow version: 1.1.0
         * Ran 4 tests in XXXs OK
     * Warnungen können Sie ignorieren
+    * Bei Fragen oder Problemen schreiben Sie uns eine E-Mail
     
 ## Agenda
 * Einrichtung der Entwicklungsumgebung
