@@ -50,8 +50,9 @@ Sollten Sie Fragen zur Installation, Vorbereitung oder zum Workshop selbst haben
 ### Fabian Witt
 Fabian Witt hat seinen Master in Data & Knowledge Engineering an der Otto-von-Guericke-Universität Magdeburg gemacht. 
 In dieser Zeit hat er sich speziell mit Themen wie Maschinellem Lernen, Data Mining und Schwarmintelligenz befasst.
-Bei der Firma Redheads Ltd. ist er als Technical Lead für den Bereich Data Science verantwortlich.
+Bei der Firma [Redheads Ltd.](https://www.redheads.de/) ist er als Technical Lead für den Bereich Data Science verantwortlich.
 
 ### Christopher Kraushaar
 Christopher Kraushaar hat 2015 den praktischen Teil seiner Ausbildung zum Fachinformatiker für Anwendungsentwicklung bei Redheads absolviert. 
 Seitdem gilt sein Interesse allen Themen im Zusammenhang mit Künstlicher Intelligenz und Machine Learning.
+Derzeit arbeitet er für [Redheads Ltd.](https://www.redheads.de/) bei [Rainforest Connection](https://rfcx.org/).
