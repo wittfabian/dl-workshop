@@ -55,4 +55,4 @@ Bei der Firma [Redheads Ltd.](https://www.redheads.de/) ist er als Technical Lea
 ### Christopher Kraushaar
 Christopher Kraushaar hat 2015 den praktischen Teil seiner Ausbildung zum Fachinformatiker für Anwendungsentwicklung bei Redheads absolviert. 
 Seitdem gilt sein Interesse allen Themen im Zusammenhang mit Künstlicher Intelligenz und Machine Learning.
-Derzeit arbeitet er für [Redheads Ltd.](https://www.redheads.de/) bei [Rainforest Connection](https://rfcx.org/).
+Derzeit arbeitet er bei [Redheads Ltd.](https://www.redheads.de/) und ist Teil des Teams bei [Rainforest Connection](https://rfcx.org/).
