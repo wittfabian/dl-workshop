@@ -13,8 +13,9 @@ Dark Science mit Deep Learning: Einführung in modernes Maschinelles Lernen mit 
     * Aktivieren Sie ihr Environment: **activate tensorflow**
     * Rufen Sie das Testprogramm auf: **$ python tensorflow-test.py**
     * Sie sollten die folgende Ausgaben sehen: 
+        * Hello, TensorFlow!
         * TensorFlow version: 1.1.0
-        * Ran 2 tests in XXXs OK
+        * Ran 4 tests in XXXs OK
     * Warnungen können Sie ignorieren
     
     
