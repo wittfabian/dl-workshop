@@ -21,7 +21,11 @@ Dark Science mit Deep Learning: Einführung in modernes Maschinelles Lernen mit 
 ## Agenda
 * Einrichtung der Entwicklungsumgebung
 * Grundlagen zum Thema Künstliche Intelligenz, Maschinelles Lernen und Deep Learning
+* [Tensorflow](https://www.tensorflow.org/) & [Keras](https://keras.io/)
 * Übungen
+ * Arbeiten mit Daten
+ * Vorhersage mit Feed-Forward-Netzen
+ * Klassifikation von Bilddaten
 
 ## Zeitlicher Ablauf
 * ab 8.40: Registrierung und Begrüßungskaffee
@@ -34,3 +38,13 @@ Dark Science mit Deep Learning: Einführung in modernes Maschinelles Lernen mit 
     
 ## Fragen & Hilfe
 Sollten Sie Fragen zur Installation, Vorbereitung oder zum Workshop selbst haben, können Sie sich jederzeit an mich wenden: fabian.witt@redheads.de
+
+## Dozenten
+### Fabian Witt
+Fabian Witt hat seinen Master in Data & Knowledge Engineering an der Otto-von-Guericke-Universität Magdeburg gemacht. 
+In dieser Zeit hat er sich speziell mit Themen wie Maschinellem Lernen, Data Mining und Schwarmintelligenz befasst.
+Bei der Firma Redheads Ltd. ist er als Technical Lead für den Bereich Data Science verantwortlich.
+
+### Christopher Kraushaar
+Christopher Kraushaar hat 2015 den praktischen Teil seiner Ausbildung zum Fachinformatiker für Anwendungsentwicklung bei Redheads absolviert. 
+Seitdem gilt sein Interesse allen Themen im Zusammenhang mit Künstlicher Intelligenz und Machine Learning.
