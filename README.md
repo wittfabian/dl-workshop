@@ -18,7 +18,7 @@ Mit TensorFlow und Keras bietet sich jetzt die Möglichkeit, diese hoch komplexe
     * Es gibt eine extra Anleitung für die Installation mit der Python-Distribution Anaconda: **Installing with Anaconda**
 4. Überprüfen Sie Ihre Installation
     * Aktivieren Sie ihr Environment: **activate tensorflow**
-    * Rufen Sie das Testprogramm auf: **$ python tensorflow-test.py**
+    * Rufen Sie das Testprogramm unter `test/` auf: **$ python tensorflow-test.py**
     * Sie sollten die folgenden Ausgaben sehen: 
         * Hello, TensorFlow!
         * TensorFlow version: 1.1.0
