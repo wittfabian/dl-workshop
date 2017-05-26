@@ -1,4 +1,4 @@
-# Workshop am Herbstcampus 2017
+# [Workshop am Herbstcampus 2017](https://www.herbstcampus.de/programm.php)
 ### Dark Science mit Deep Learning: Einführung in modernes Maschinelles Lernen mit Python
 Es gibt Probleme, die sind so komplex, dass das Ausprogrammieren deren Lösung entweder viel zu teuer oder momentan unmöglich wäre.
 Ziel von Maschinellem Lernen (ML) als Disziplin der Künstlichen Intelligenz (KI) ist es, solche Probleme zu bewältigen, indem Systeme in erster Linie nicht programmiert, sondern trainiert werden.
