@@ -16,3 +16,7 @@ Dark Science mit Deep Learning: Einführung in modernes Maschinelles Lernen mit 
         * TensorFlow version: 1.1.0
         * Ran 2 tests in XXXs OK
     * Warnungen können Sie ignorieren
+    
+    
+### Fragen & Hilfe
+Sollten Sie Fragen zur Installation, Vorbereitung oder zum Workshop selbst haben, können Sie sich jederzeit an mich wenden: fabian.witt@redheads.de
