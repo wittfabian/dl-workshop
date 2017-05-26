@@ -1,4 +1,4 @@
-# dl-workshop
+# Workshop am Herbstcampus 2017
 Dark Science mit Deep Learning: Einführung in modernes Maschinelles Lernen mit Python
 
 ### Vorbereitung
