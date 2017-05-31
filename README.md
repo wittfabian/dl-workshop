@@ -34,7 +34,7 @@ Mit TensorFlow und Keras bietet sich jetzt die Möglichkeit, diese hoch komplexe
    * Arbeiten mit Daten
    * Vorhersage mit Feed-Forward-Netzen
    * Klassifikation von Bilddaten (Convolutional-Netz)
-   * Rekurrenten neuronalen Netzen.
+   * Rekurrente neuronale Netze.
 
 ## Zeitlicher Ablauf
 * ab 8.40: Registrierung und Begrüßungskaffee
