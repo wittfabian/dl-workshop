@@ -12,6 +12,10 @@ from keras.layers import Dense, Dropout, Flatten
 from keras.layers import Conv2D, MaxPooling2D
 from keras import backend as K
 
+from keras.backend import tensorflow_backend
+
+from workshop.utils.callback import TimingCallback
+
 batch_size = 128
 num_classes = 10
 epochs = 12
@@ -59,11 +63,26 @@ model.compile(loss=keras.losses.categorical_crossentropy,
               optimizer=keras.optimizers.Adadelta(),
               metrics=['accuracy'])
 
+tcb = TimingCallback()
+
 model.fit(x_train, y_train,
           batch_size=batch_size,
           epochs=epochs,
           verbose=1,
-          validation_data=(x_test, y_test))
+          validation_data=(x_test, y_test),
+          callbacks=[tcb])
 score = model.evaluate(x_test, y_test, verbose=0)
 print('Test loss:', score[0])
 print('Test accuracy:', score[1])
+
+print('Epoch mean time: ', tcb.epoch_mean_time)
+print('Batch mean time: ', tcb.batch_mean_time)
+print('Train mean time: ', tcb.train_mean_time)
+
+'''
+Test loss: 0.0280184049341
+Test accuracy: 0.9911
+Epoch mean time:  4.54732982318
+Batch mean time:  0.00868207275571
+Train mean time:  54.5706849098
+'''
