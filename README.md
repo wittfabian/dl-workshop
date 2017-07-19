@@ -17,14 +17,14 @@ Mit TensorFlow und Keras bietet sich jetzt die Möglichkeit, diese hoch komplexe
     * Bitte nutzen Sie die Version **TensorFlow with CPU support only**
     * Es gibt eine extra Anleitung für die Installation mit der Python-Distribution Anaconda: **Installing with Anaconda**
 4. Überprüfen Sie Ihre Installation
-    * Aktivieren Sie ihr Environment: **activate tensorflow**
+    * Aktivieren Sie ihr Environment: **activate dl-workshop**
     * Rufen Sie das Testprogramm unter `test/` auf: **$ python tensorflow-test.py**
     * Sie sollten die folgenden Ausgaben sehen: 
         * Hello, TensorFlow!
         * TensorFlow version: 1.1.0
         * Ran 4 tests in XXXs OK
     * Warnungen können Sie ignorieren
-    * Bei Fragen oder Problemen schreiben Sie uns eine E-Mail
+    * Bei Fragen oder Problemen schreiben Sie mir eine E-Mail
     
 ## Agenda
 * Einrichtung der Entwicklungsumgebung
@@ -33,8 +33,8 @@ Mit TensorFlow und Keras bietet sich jetzt die Möglichkeit, diese hoch komplexe
 * Übungen
    * Arbeiten mit Daten
    * Vorhersage mit Feed-Forward-Netzen
-   * Klassifikation von Bilddaten (Convolutional-Netz)
-   * Rekurrente neuronale Netze.
+   * Klassifikation von Bilddaten ([Convolutional Neural Networks - CNNs / ConvNets](http://cs231n.github.io/convolutional-networks/))
+   * [Rekurrente neuronale Netze](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 
 ## Zeitlicher Ablauf
 * ab 8.40: Registrierung und Begrüßungskaffee
@@ -52,7 +52,7 @@ Sollten Sie Fragen zur Installation, Vorbereitung oder zum Workshop selbst haben
 * [Jupyter Notebook Keyboard Shortcuts](https://www.cheatography.com/weidadeyue/cheat-sheets/jupyter-notebook/)
 * [Managing Conda Environments](https://conda.io/docs/using/envs.html)
 
-## Dozenten
+## Dozent
 ### Fabian Witt
 Fabian Witt hat seinen Master in Data & Knowledge Engineering an der Otto-von-Guericke-Universität Magdeburg gemacht. 
 In dieser Zeit hat er sich speziell mit Themen wie Maschinellem Lernen, Data Mining und Schwarmintelligenz befasst.
