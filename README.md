@@ -53,6 +53,7 @@ Sollten Sie Fragen zur Installation, Vorbereitung oder zum Workshop selbst haben
 ## Hilfreiche Links:
 * [Jupyter Notebook Keyboard Shortcuts](https://www.cheatography.com/weidadeyue/cheat-sheets/jupyter-notebook/)
 * [Managing Conda Environments](https://conda.io/docs/using/envs.html)
+* [Tensorflow Playground](http://playground.tensorflow.org/)
 
 ## Dozent
 ### Fabian Witt
