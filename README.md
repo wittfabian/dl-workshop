@@ -35,6 +35,8 @@ Mit TensorFlow und Keras bietet sich jetzt die Möglichkeit, diese hoch komplexe
    * Vorhersage mit Feed-Forward-Netzen
    * Klassifikation von Bilddaten ([Convolutional Neural Networks - CNNs / ConvNets](http://cs231n.github.io/convolutional-networks/))
    * [Rekurrente neuronale Netze](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+   * Parameter-Tuning
+   * Vorhersage von Zeitreihen
 
 ## Zeitlicher Ablauf
 * ab 8.40: Registrierung und Begrüßungskaffee
