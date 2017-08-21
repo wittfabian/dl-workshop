@@ -56,7 +56,6 @@ Sollten Sie Fragen zur Installation, Vorbereitung oder zum Workshop selbst haben
 * [Tensorflow Playground](http://playground.tensorflow.org/)
 * [NN & DL Glossary](https://deeplearning4j.org/glossary)
 * [Comparing Top Deep Learning Frameworks](https://deeplearning4j.org/compare-dl4j-torch7-pylearn)
-* [Trained image classification models for Keras](https://github.com/fchollet/deep-learning-models)
 
 ## Dozent
 ### Fabian Witt
