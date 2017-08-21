@@ -4,7 +4,7 @@ from keras.callbacks import Callback
 
 class TimingCallback(Callback):
     def __init__(self):
-        # super(TimingCallback, self).__init__()
+        super(TimingCallback, self).__init__()
         self.epoch_logs=[]
         self.batch_logs=[]
         self.train_logs=[]

@@ -54,6 +54,8 @@ Sollten Sie Fragen zur Installation, Vorbereitung oder zum Workshop selbst haben
 * [Jupyter Notebook Keyboard Shortcuts](https://www.cheatography.com/weidadeyue/cheat-sheets/jupyter-notebook/)
 * [Managing Conda Environments](https://conda.io/docs/using/envs.html)
 * [Tensorflow Playground](http://playground.tensorflow.org/)
+* [NN & DL Glossary](https://deeplearning4j.org/glossary)
+* [Comparing Top Deep Learning Frameworks](https://deeplearning4j.org/compare-dl4j-torch7-pylearn)
 
 ## Dozent
 ### Fabian Witt
