@@ -207,7 +207,7 @@ dependencies:
   - jupyter-client==5.0.1
   - jupyter-console==5.1.0
   - jupyter-core==4.3.0
-  - keras==2.0.4
+  - keras==2.0.6
   - prompt-toolkit==1.0.14
   - protobuf==3.3.0
   - rope-py3k==0.9.4.post1
