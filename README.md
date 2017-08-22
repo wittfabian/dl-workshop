@@ -74,6 +74,7 @@ Sollten Sie Fragen zur Installation, Vorbereitung oder zum Workshop selbst haben
 * [Tensorflow Playground](http://playground.tensorflow.org/)
 * [NN & DL Glossary](https://deeplearning4j.org/glossary)
 * [Comparing Top Deep Learning Frameworks](https://deeplearning4j.org/compare-dl4j-torch7-pylearn)
+* [Deep Learning Cheat Sheet](https://github.com/kailashahirwar/cheatsheets-ai/blob/master/PDFs/Deep%20Learning%20Cheat%20Sheet-Hacker%20Noon.pdf)
 
 ## Dozent
 ### Fabian Witt
