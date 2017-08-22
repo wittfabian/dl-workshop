@@ -47,7 +47,7 @@ Mit TensorFlow und Keras bietet sich jetzt die Möglichkeit, diese hoch komplexe
 ## Agenda
 * Einrichtung der Entwicklungsumgebung
 * Grundlagen zum Thema Künstliche Intelligenz, Maschinelles Lernen und Deep Learning
-* [Tensorflow](https://www.tensorflow.org/) & [Keras](https://keras.io/)
+* Grundlagen zu [Tensorflow](https://www.tensorflow.org/) & [Keras](https://keras.io/)
 * Übungen
    * Arbeiten mit Daten
    * Vorhersage mit Feed-Forward-Netzen
