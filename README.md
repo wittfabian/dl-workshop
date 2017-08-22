@@ -38,11 +38,11 @@ Mit TensorFlow und Keras bietet sich jetzt die Möglichkeit, diese hoch komplexe
 1. Starten sie das Programm Anaconda Navigator
 2. Wählen sie unter "Home" das Environment "dl-workshop" aus (Select-Feld unter "Applications on")
 3. Jupyter Notebook erscheint als Programm. Drücken Sie "Launch" um die Anwendung zu starten
-4. Ein Brwoser-Fenster öffnet sich, unter dem Sie die Anwendung erreichen können
+4. Ein Browser-Fenster öffnet sich, unter dem Sie die Anwendung erreichen können
 
 ### Dateien öffnen
-1. Im Brwoser-Fenster können Sie nun zum  Projekt Ordner (GitHub Repository) navigieren
-2. Die Dateien mit der Endung ".ipynb" können nun geöffnet werden
+1. Im Browser-Fenster können Sie nun zum Projektordner (GitHub Repository) navigieren
+2. Die Dateien mit der Endung ".ipynb" können mit der Anwendung geöffnet werden
     
 ## Agenda
 * Einrichtung der Entwicklungsumgebung
