@@ -27,6 +27,23 @@ Mit TensorFlow und Keras bietet sich jetzt die Möglichkeit, diese hoch komplexe
     * Warnungen können Sie ignorieren
     * Bei Fragen oder Problemen schreiben Sie mir eine E-Mail
     
+## Öffen des Projekts mit Jupyter Notebook
+
+### Im Terminal
+1. Aktivieren Sie ihr Environment: **activate dl-workshop**
+2. Starten Sie Jupyter Notebook: **jupyter notebook**
+3. Ein Browser-Fenster sollte sich automatisch öffnen, wenn nicht wird der Link im Terminal angezeigt
+
+### Mit Anaconda Navigator
+1. Starten sie das Programm Anaconda Navigator
+2. Wählen sie unter "Home" das Environment "dl-workshop" aus (Select-Feld unter "Applications on")
+3. Jupyter Notebook erscheint als Programm. Drücken Sie "Launch" um die Anwendung zu starten
+4. Ein Brwoser-Fenster öffnet sich, unter dem Sie die Anwendung erreichen können
+
+### Dateien öffnen
+1. Im Brwoser-Fenster können Sie nun zum  Projekt Ordner (GitHub Repository) navigieren
+2. Die Dateien mit der Endung ".ipynb" können nun geöffnet werden
+    
 ## Agenda
 * Einrichtung der Entwicklungsumgebung
 * Grundlagen zum Thema Künstliche Intelligenz, Maschinelles Lernen und Deep Learning
