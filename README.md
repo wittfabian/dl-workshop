@@ -18,7 +18,7 @@ Mit TensorFlow und Keras bietet sich jetzt die Möglichkeit, diese hoch komplexe
     * Bitte nutzen Sie die Version **TensorFlow with CPU support only**
     * Es gibt eine extra Anleitung für die Installation mit der Python-Distribution Anaconda: **Installing with Anaconda**
 4. Überprüfen Sie Ihre Installation
-    * Aktivieren Sie ihr Environment: **activate dl-workshop**
+    * Aktivieren Sie ihr Environment: **$ activate dl-workshop**
     * Rufen Sie das Testprogramm unter `test/` auf: **$ python tensorflow-test.py**
     * Sie sollten die folgenden Ausgaben sehen: 
         * Hello, TensorFlow!
@@ -30,8 +30,8 @@ Mit TensorFlow und Keras bietet sich jetzt die Möglichkeit, diese hoch komplexe
 ## Öffen des Projekts mit Jupyter Notebook
 
 ### Im Terminal
-1. Aktivieren Sie ihr Environment: **activate dl-workshop**
-2. Starten Sie Jupyter Notebook: **jupyter notebook**
+1. Aktivieren Sie ihr Environment: **$ activate dl-workshop**
+2. Starten Sie Jupyter Notebook: **$ jupyter notebook**
 3. Ein Browser-Fenster sollte sich automatisch öffnen, wenn nicht wird der Link im Terminal angezeigt
 
 ### Mit Anaconda Navigator
