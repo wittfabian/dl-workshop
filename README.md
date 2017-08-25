@@ -19,7 +19,8 @@ Mit TensorFlow und Keras bietet sich jetzt die Möglichkeit, diese hoch komplexe
 5. Installieren Sie TensorFlow ([Anleitung](https://www.tensorflow.org/install/)). 
     * Schließen Sie PyCharm und alle anderen Programme die das Environment nutzen
     * Bitte nutzen Sie die Version **TensorFlow with CPU support only**
-    * Es gibt eine extra Anleitung für die Installation mit der Python-Distribution Anaconda: **Installing with Anaconda**
+    * Es gibt eine extra Anleitung für die Installation mit der Python-Distribution Anaconda: 
+      * **Installing with native pip** oder **Installing with Anaconda**
 6. Überprüfen Sie Ihre Installation
     * Aktivieren Sie ihr Environment: **$ activate dl-workshop**
     * Rufen Sie das Testprogramm unter `test/` auf: **$ python tensorflow-test.py**
