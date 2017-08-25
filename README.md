@@ -12,7 +12,7 @@ Mit TensorFlow und Keras bietet sich jetzt die Möglichkeit, diese hoch komplexe
 
 1. Installieren Sie die Python-Distribution Anaconda: https://www.continuum.io/downloads (Python 3).
 2. Erstellen Sie ein Conda Environment ([Hilfe](https://conda.io/docs/using/envs.html)) mit Hilfe der Datei `environment.yml`.
-    * `conda env create -f environment.yml`
+    * `$ conda env create -f environment.yml`
     * Alternativ können Sie das Environment im Anaconda Navigator unter "Environments > Import (unten)" mit Hilfe der `environment.yml` Datei importieren
 3. Installieren Sie TensorFlow ([Anleitung](https://www.tensorflow.org/install/)). 
     * Bitte nutzen Sie die Version **TensorFlow with CPU support only**
