@@ -17,6 +17,7 @@ Mit TensorFlow und Keras bietet sich jetzt die Möglichkeit, diese hoch komplexe
     * `$ conda env create -f environment.yml`
     * Alternativ können Sie das Environment im Anaconda Navigator unter "Environments > Import (unten)" mit Hilfe der `environment.yml` Datei importieren
 5. Installieren Sie TensorFlow ([Anleitung](https://www.tensorflow.org/install/)). 
+    * Schließen Sie PyCharm und alle anderen Programme die das Environment nutzen
     * Bitte nutzen Sie die Version **TensorFlow with CPU support only**
     * Es gibt eine extra Anleitung für die Installation mit der Python-Distribution Anaconda: **Installing with Anaconda**
 6. Überprüfen Sie Ihre Installation
