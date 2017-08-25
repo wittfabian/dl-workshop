@@ -31,6 +31,8 @@ Mit TensorFlow und Keras bietet sich jetzt die Möglichkeit, diese hoch komplexe
     * Warnungen können Sie ignorieren
     * Bei Fragen oder Problemen schreiben Sie mir eine E-Mail
     
+**Wenn Sie einen Proxy verwenden, können Probleme bei der Installation auftreten!!**
+    
 ## Öffen des Projekts mit Jupyter Notebook
 
 ### Im Terminal
