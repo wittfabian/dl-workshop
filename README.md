@@ -33,8 +33,13 @@ Mit TensorFlow und Keras bietet sich jetzt die Möglichkeit, diese hoch komplexe
         * Ran 4 tests in XXXs OK
     * Warnungen können Sie ignorieren
     * Bei Fragen oder Problemen schreiben Sie mir eine E-Mail
-    
-**Wenn Sie einen Proxy verwenden, können Probleme bei der Installation auftreten!!**
+
+### Probleme bei der Installation 
+* Wenn Sie einen Proxy verwenden, können Probleme bei der Installation auftreten!!
+   * https://stackoverflow.com/questions/29267646/how-to-enable-proxy-servers-with-anaconda-python
+   * https://stackoverflow.com/questions/36729023/how-to-make-anaconda-work-behind-http-proxy-not-https
+   * Setzen Sie den pip-proxy erstellen Sie die `.condarc`-Datei
+   * Beenden Sie danach unbedingt die Session im Terminal und nutzen eine neue!
     
 ## Öffen des Projekts mit Jupyter Notebook
 
