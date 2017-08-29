@@ -16,15 +16,7 @@ Mit TensorFlow und Keras bietet sich jetzt die Möglichkeit, diese hoch komplexe
 4. Erstellen Sie ein Conda Environment ([Hilfe](https://conda.io/docs/using/envs.html)) mit Hilfe der Datei `environment.yml`.
     * `$ conda env create -f environment.yml`
     * Alternativ können Sie das Environment im Anaconda Navigator unter "Environments > Import (unten)" mit Hilfe der `environment.yml` Datei importieren
-5. Installieren Sie TensorFlow ([Anleitung](https://www.tensorflow.org/install/)). 
-    * Schließen Sie PyCharm und alle anderen Programme die das Environment nutzen
-    * Bitte nutzen Sie die Version **TensorFlow with CPU support only**
-    * Es gibt eine extra Anleitung für die Installation mit der Python-Distribution Anaconda: 
-      * **Installing with native pip** oder **Installing with Anaconda**
-    * Installieren Sie TensorFlow im eben erstellten Conda Environment (kein neues erstellen wie auf der TensorFlow-Seite beschrieben)
-      * **$ activate dl-workshop**
-      * **$ pip install --ignore-installed --upgrade tensorflow**
-6. Überprüfen Sie Ihre Installation
+5. Überprüfen Sie Ihre Installation
     * Aktivieren Sie ihr Environment: **$ activate dl-workshop**
     * Rufen Sie das Testprogramm unter `test/` auf: **$ python tensorflow-test.py**
     * Sie sollten die folgenden Ausgaben sehen: 
