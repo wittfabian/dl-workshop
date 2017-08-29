@@ -10,7 +10,7 @@ Mit TensorFlow und Keras bietet sich jetzt die Möglichkeit, diese hoch komplexe
 
 ## Vorbereitung
 
-1. Installieren Sie die Python-Distribution Anaconda: https://www.continuum.io/downloads (Python 3).
+1. Installieren Sie die Python-Distribution Anaconda: https://www.anaconda.com/download/ (Python 3).
 2. Laden Sie das GitHub-Repo herunter (Als ZIP oder via git)
 3. Navigieren Sie zum Repo-Ordner (dl-workshop)
 4. Erstellen Sie ein Conda Environment ([Hilfe](https://conda.io/docs/using/envs.html)) mit Hilfe der Datei `environment.yml`.
