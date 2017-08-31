@@ -35,6 +35,10 @@ Mit TensorFlow und Keras bietet sich jetzt die Möglichkeit, diese hoch komplexe
     
 ## Öffen des Projekts mit Jupyter Notebook
 
+**Falls das Projekt (dl-workshop) auf einer anderen Festplatte abgelegt ist als die Anaconda-Installation:**
+* https://stackoverflow.com/questions/35254852/how-to-change-jupyter-start-folder
+* Beispieländerung: `c.NotebookApp.notebook_dir = 'D:\Source\python\dl-workshop'` (Pfadanpassen)
+
 ### Im Terminal
 1. Aktivieren Sie ihr Environment: **$ activate dl-workshop**
 2. Starten Sie Jupyter Notebook: **$ jupyter notebook**
