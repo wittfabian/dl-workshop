@@ -85,6 +85,7 @@ Sollten Sie Fragen zur Installation, Vorbereitung oder zum Workshop selbst haben
 * [NN & DL Glossary](https://deeplearning4j.org/glossary)
 * [Comparing Top Deep Learning Frameworks](https://deeplearning4j.org/compare-dl4j-torch7-pylearn)
 * [Deep Learning Cheat Sheet](https://github.com/kailashahirwar/cheatsheets-ai/blob/master/PDFs/Deep%20Learning%20Cheat%20Sheet-Hacker%20Noon.pdf)
+* [When not to use deep learning](http://hyperparameter.space/blog/when-not-to-use-deep-learning/)
 
 ## Dozent
 ### Fabian Witt
