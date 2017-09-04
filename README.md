@@ -88,6 +88,7 @@ Sollten Sie Fragen zur Installation, Vorbereitung oder zum Workshop selbst haben
 * [When not to use deep learning](http://hyperparameter.space/blog/when-not-to-use-deep-learning/)
 * [List of activation functions (equations)](https://stats.stackexchange.com/questions/154879/a-list-of-cost-functions-used-in-neural-networks-alongside-applications)
 * [Comparison of activation functions](https://en.wikipedia.org/wiki/Activation_function)
+* [L1, L2 & Max Normalization](https://stats.stackexchange.com/questions/225564/scikit-learn-normalization-mode-l1-vs-l2-max)
 
 
 ## Dozent
