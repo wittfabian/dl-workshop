@@ -1,5 +1,4 @@
-# [Workshop am Herbstcampus 2017](https://www.herbstcampus.de/programm.php)
-### Dark Science mit Deep Learning: Einführung in modernes Maschinelles Lernen mit Python
+# Dark Science mit Deep Learning: Einführung in modernes Maschinelles Lernen mit Python
 Es gibt Probleme, die sind so komplex, dass das Ausprogrammieren deren Lösung entweder viel zu teuer oder momentan unmöglich wäre.
 Ziel von Maschinellem Lernen (ML) als Disziplin der Künstlichen Intelligenz (KI) ist es, solche Probleme zu bewältigen, indem Systeme in erster Linie nicht programmiert, sondern trainiert werden.
 Deep Learning (DL) als Teilgebiet des ML verwendet sog. tiefe neuronale Netze.
@@ -65,15 +64,6 @@ Mit TensorFlow und Keras bietet sich jetzt die Möglichkeit, diese hoch komplexe
    * [Rekurrente neuronale Netze](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
    * Parameter-Tuning
    * Vorhersage von Zeitreihen
-
-## Zeitlicher Ablauf
-* ab 8.40: Registrierung und Begrüßungskaffee
-* 9.40: Beginn
-* 11.00 - 11.15: Kaffeepause
-* 13.00 - 14.00: Mittagspause
-* 16.00 - 16.30: Kaffeepause
-* ca. 18.30 Uhr: Ende
-    
     
 ## Fragen & Hilfe
 Sollten Sie Fragen zur Installation, Vorbereitung oder zum Workshop selbst haben, können Sie sich jederzeit an mich wenden: fabian.witt@redheads.de
