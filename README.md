@@ -79,6 +79,7 @@ Sollten Sie Fragen zur Installation, Vorbereitung oder zum Workshop selbst haben
 * [List of activation functions (equations)](https://stats.stackexchange.com/questions/154879/a-list-of-cost-functions-used-in-neural-networks-alongside-applications)
 * [Comparison of activation functions](https://en.wikipedia.org/wiki/Activation_function)
 * [L1, L2 & Max Normalization](https://stats.stackexchange.com/questions/225564/scikit-learn-normalization-mode-l1-vs-l2-max)
+* [Open Data for Deep Learning](https://deeplearning4j.org/opendata)
 
 
 ## Dozent
