@@ -87,3 +87,15 @@ Sollten Sie Fragen zur Installation, Vorbereitung oder zum Workshop selbst haben
 Fabian Witt hat seinen Master in Data & Knowledge Engineering an der Otto-von-Guericke-Universität Magdeburg gemacht. 
 In dieser Zeit hat er sich speziell mit Themen wie Maschinellem Lernen, Data Mining und Schwarmintelligenz befasst.
 Bei der Firma [Redheads Ltd.](https://www.redheads.de/) ist er als Technical Lead für den Bereich Data Science verantwortlich.
+
+## Grundlagen
+### Neuronale Netze
+* [How the backpropagation algorithm works](http://neuralnetworksanddeeplearning.com/chap2.html)
+* [List of activation functions (equations)](https://stats.stackexchange.com/questions/154879/a-list-of-cost-functions-used-in-neural-networks-alongside-applications)
+* [Comparison of activation functions](https://en.wikipedia.org/wiki/Activation_function)
+
+### Convolutional Neural Networks
+* [Convolutional Neural Networks](http://cs231n.github.io/convolutional-networks/)
+
+### Rekurrente neuronale Netze
+* [Rekurrente neuronale Netze](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
