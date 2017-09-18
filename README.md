@@ -99,3 +99,5 @@ Bei der Firma [Redheads Ltd.](https://www.redheads.de/) ist er als Technical Lea
 
 ### Rekurrente neuronale Netze
 * [Rekurrente neuronale Netze](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+* [Stateful LSTM in Keras](http://philipperemy.github.io/keras-stateful-lstm/)
+* [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
