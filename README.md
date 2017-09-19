@@ -58,12 +58,16 @@ Mit TensorFlow und Keras bietet sich jetzt die Möglichkeit, diese hoch komplexe
 * Grundlagen zum Thema Künstliche Intelligenz, Maschinelles Lernen und Deep Learning
 * Grundlagen zu [Tensorflow](https://www.tensorflow.org/) & [Keras](https://keras.io/)
 * Übungen
-   * Arbeiten mit Daten
+   * Einführung & Arbeiten mit Daten
    * Vorhersage mit Feed-Forward-Netzen
    * Klassifikation von Bilddaten ([Convolutional Neural Networks - CNNs / ConvNets](http://cs231n.github.io/convolutional-networks/))
+   * Autoencoder
    * [Rekurrente neuronale Netze](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+* Optional:
    * Parameter-Tuning
-   * Vorhersage von Zeitreihen
+   * Custom Layers
+   * Multi Modal Networks
+   * ...
     
 ## Fragen & Hilfe
 Sollten Sie Fragen zur Installation, Vorbereitung oder zum Workshop selbst haben, können Sie sich jederzeit an mich wenden: fabian.witt@redheads.de
@@ -101,3 +105,6 @@ Bei der Firma [Redheads Ltd.](https://www.redheads.de/) ist er als Technical Lea
 * [Rekurrente neuronale Netze](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 * [Stateful LSTM in Keras](http://philipperemy.github.io/keras-stateful-lstm/)
 * [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+
+### Autoencoders
+* [Autoencoders in Keras](https://blog.keras.io/building-autoencoders-in-keras.html)
