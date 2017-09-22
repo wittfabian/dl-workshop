@@ -85,7 +85,7 @@ Sollten Sie Fragen zur Installation, Vorbereitung oder zum Workshop selbst haben
 * [L1, L2 & Max Normalization](https://stats.stackexchange.com/questions/225564/scikit-learn-normalization-mode-l1-vs-l2-max)
 * [Open Data for Deep Learning](https://deeplearning4j.org/opendata)
 * [First contact with TensorFlow](http://jorditorres.org/research-teaching/tensorflow/first-contact-with-tensorflow-book/first-contact-with-tensorflow/)
-
+* [Overview of gradient descent optimization algorithms](http://ruder.io/optimizing-gradient-descent/)
 
 ## Dozent
 ### Fabian Witt
