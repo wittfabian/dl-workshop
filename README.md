@@ -68,30 +68,6 @@ Mit TensorFlow und Keras bietet sich jetzt die Möglichkeit, diese hoch komplexe
    * Custom Layers
    * Multi Modal Networks
    * ...
-    
-## Fragen & Hilfe
-Sollten Sie Fragen zur Installation, Vorbereitung oder zum Workshop selbst haben, können Sie sich jederzeit an mich wenden: fabian.witt@redheads.de
-
-## Hilfreiche Links:
-* [Jupyter Notebook Keyboard Shortcuts](https://www.cheatography.com/weidadeyue/cheat-sheets/jupyter-notebook/)
-* [Managing Conda Environments](https://conda.io/docs/using/envs.html)
-* [Tensorflow Playground](http://playground.tensorflow.org/)
-* [NN & DL Glossary](https://deeplearning4j.org/glossary)
-* [Comparing Top Deep Learning Frameworks](https://deeplearning4j.org/compare-dl4j-torch7-pylearn)
-* [Deep Learning Cheat Sheet](https://github.com/kailashahirwar/cheatsheets-ai/blob/master/PDFs/Deep%20Learning%20Cheat%20Sheet-Hacker%20Noon.pdf)
-* [When not to use deep learning](http://hyperparameter.space/blog/when-not-to-use-deep-learning/)
-* [List of activation functions (equations)](https://stats.stackexchange.com/questions/154879/a-list-of-cost-functions-used-in-neural-networks-alongside-applications)
-* [Comparison of activation functions](https://en.wikipedia.org/wiki/Activation_function)
-* [L1, L2 & Max Normalization](https://stats.stackexchange.com/questions/225564/scikit-learn-normalization-mode-l1-vs-l2-max)
-* [Open Data for Deep Learning](https://deeplearning4j.org/opendata)
-* [First contact with TensorFlow](http://jorditorres.org/research-teaching/tensorflow/first-contact-with-tensorflow-book/first-contact-with-tensorflow/)
-* [Overview of gradient descent optimization algorithms](http://ruder.io/optimizing-gradient-descent/)
-
-## Dozent
-### Fabian Witt
-Fabian Witt hat seinen Master in Data & Knowledge Engineering an der Otto-von-Guericke-Universität Magdeburg gemacht. 
-In dieser Zeit hat er sich speziell mit Themen wie Maschinellem Lernen, Data Mining und Schwarmintelligenz befasst.
-Bei der Firma [Redheads Ltd.](https://www.redheads.de/) ist er als Technical Lead für den Bereich Data Science verantwortlich.
 
 ## Grundlagen
 ### Neuronale Netze
@@ -109,3 +85,27 @@ Bei der Firma [Redheads Ltd.](https://www.redheads.de/) ist er als Technical Lea
 
 ### Autoencoders
 * [Autoencoders in Keras](https://blog.keras.io/building-autoencoders-in-keras.html)
+
+## Hilfreiche Links:
+* [Jupyter Notebook Keyboard Shortcuts](https://www.cheatography.com/weidadeyue/cheat-sheets/jupyter-notebook/)
+* [Managing Conda Environments](https://conda.io/docs/using/envs.html)
+* [Tensorflow Playground](http://playground.tensorflow.org/)
+* [NN & DL Glossary](https://deeplearning4j.org/glossary)
+* [Comparing Top Deep Learning Frameworks](https://deeplearning4j.org/compare-dl4j-torch7-pylearn)
+* [Deep Learning Cheat Sheet](https://github.com/kailashahirwar/cheatsheets-ai/blob/master/PDFs/Deep%20Learning%20Cheat%20Sheet-Hacker%20Noon.pdf)
+* [When not to use deep learning](http://hyperparameter.space/blog/when-not-to-use-deep-learning/)
+* [List of activation functions (equations)](https://stats.stackexchange.com/questions/154879/a-list-of-cost-functions-used-in-neural-networks-alongside-applications)
+* [Comparison of activation functions](https://en.wikipedia.org/wiki/Activation_function)
+* [L1, L2 & Max Normalization](https://stats.stackexchange.com/questions/225564/scikit-learn-normalization-mode-l1-vs-l2-max)
+* [Open Data for Deep Learning](https://deeplearning4j.org/opendata)
+* [First contact with TensorFlow](http://jorditorres.org/research-teaching/tensorflow/first-contact-with-tensorflow-book/first-contact-with-tensorflow/)
+* [Overview of gradient descent optimization algorithms](http://ruder.io/optimizing-gradient-descent/)
+
+## Fragen & Hilfe
+Sollten Sie Fragen zur Installation, Vorbereitung oder zum Workshop selbst haben, können Sie sich jederzeit an mich wenden: fabian.witt@redheads.de
+
+## Dozent
+### Fabian Witt
+Fabian Witt hat seinen Master in Data & Knowledge Engineering an der Otto-von-Guericke-Universität Magdeburg gemacht. 
+In dieser Zeit hat er sich speziell mit Themen wie Maschinellem Lernen, Data Mining und Schwarmintelligenz befasst.
+Bei der Firma [Redheads Ltd.](https://www.redheads.de/) ist er als Technical Lead für den Bereich Data Science verantwortlich.
