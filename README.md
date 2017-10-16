@@ -100,6 +100,7 @@ Mit TensorFlow und Keras bietet sich jetzt die Möglichkeit, diese hoch komplexe
 * [Open Data for Deep Learning](https://deeplearning4j.org/opendata)
 * [First contact with TensorFlow](http://jorditorres.org/research-teaching/tensorflow/first-contact-with-tensorflow-book/first-contact-with-tensorflow/)
 * [Overview of gradient descent optimization algorithms](http://ruder.io/optimizing-gradient-descent/)
+* [How to choose the number of hidden layers and nodes in a feed-forward neural network?](https://stats.stackexchange.com/questions/181/how-to-choose-the-number-of-hidden-layers-and-nodes-in-a-feedforward-neural-netw)
 
 ## Fragen & Hilfe
 Sollten Sie Fragen zur Installation, Vorbereitung oder zum Workshop selbst haben, können Sie sich jederzeit an mich wenden: fabian.witt@redheads.de
