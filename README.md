@@ -20,7 +20,7 @@ Mit TensorFlow und Keras bietet sich jetzt die Möglichkeit, diese hoch komplexe
     * Rufen Sie das Testprogramm unter `test/` auf: **$ python tensorflow-test.py**
     * Sie sollten die folgenden Ausgaben sehen: 
         * Hello, TensorFlow!
-        * TensorFlow version: 1.3.0
+        * TensorFlow version: 1.4.0
         * Ran 4 tests in XXXs OK
     * Warnungen können Sie ignorieren
     * Bei Fragen oder Problemen schreiben Sie mir eine E-Mail
