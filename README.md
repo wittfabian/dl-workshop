@@ -105,8 +105,16 @@ Mit TensorFlow und Keras bietet sich jetzt die Möglichkeit, diese hoch komplexe
 ## Fragen & Hilfe
 Sollten Sie Fragen zur Installation, Vorbereitung oder zum Workshop selbst haben, können Sie sich jederzeit an mich wenden: fabian.witt@redheads.de
 
-## Dozent
+## Dozenten
+
 ### Fabian Witt
 Fabian Witt hat seinen Master in Data & Knowledge Engineering an der Otto-von-Guericke-Universität Magdeburg gemacht. 
 In dieser Zeit hat er sich speziell mit Themen wie Maschinellem Lernen, Data Mining und Schwarmintelligenz befasst.
 Bei der Firma [Redheads Ltd.](https://www.redheads.de/) ist er als Technical Lead für den Bereich Data Science verantwortlich.
+
+
+### Steven Brandt
+Steven Brandt arbeitet am Institutsteil Entwicklung Adaptiver Systeme des Fraunhofer IIS als Data Scientist.
+Sein Aufgabengebiet ist die Entwicklung von intelligenten Analysesystemen, welche automatisch unterschiedlichste Daten verarbeiten und Handlungsempfehlungen generieren.
+Zuvor erlangte Steven Brandt seinen Master in Data and Knowledge Engineering an der Otto-von-Guericke-Universität in Magdeburg.
+Während des Studiums beschäftigte er sich unter anderem mit dem Maschinellen Lernen, Data Mining und Warehousing sowie Datenbanktechnologien.
