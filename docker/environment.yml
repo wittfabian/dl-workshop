@@ -1,0 +1,7 @@
+name: dl-workshop
+dependencies:
+  - python=3.5
+  - anaconda
+  - pip:
+    - keras==2.1.2
+    - tensorflow==1.4.0
