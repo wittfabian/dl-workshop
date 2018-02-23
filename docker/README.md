@@ -1,4 +1,4 @@
-# Workshop Docker Container
+# Installation via Docker
 
 We're building this container on top of [Debian 8 Docker container](https://hub.docker.com/r/library/debian/) and [Anaconda Docker container](https://hub.docker.com/r/continuumio/anaconda3/)
 
@@ -14,9 +14,9 @@ docker run -it -p 8888:8888 -p 6006:6006 -d -v <path/to/dl-workshop/workshop>:/w
 ```
 
 
-We're using following parameters:
+We're using the following parameters:
 - ```-p 8888:8888``` to export Jupyter Web interface
-- ```-p 6006:6006``` to export TensorflowDashboard Web interface
+- ```-p 6006:6006``` to export Tensorboard Web interface
 - ```-d``` to run Docker container in background
 - ```-v workshop:/workshop``` to mount *workshop* folder inside Docker container
 
@@ -25,3 +25,4 @@ The notebooks are available under the following url:
 ```sh
 http://localhost:8888
 ```
+
