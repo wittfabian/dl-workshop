@@ -16,9 +16,9 @@ Mit TensorFlow und Keras bietet sich jetzt die Möglichkeit, diese hoch komplexe
 * Übungen
    * Einführung & Arbeiten mit Daten
    * Vorhersage mit Feed-Forward-Netzen
-   * Klassifikation von Bilddaten ([Convolutional Neural Networks - CNNs / ConvNets](http://cs231n.github.io/convolutional-networks/))
+   * Klassifikation von Bilddaten
    * Autoencoder
-   * [Rekurrente neuronale Netze](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+   * Rekurrente neuronale Netze
 * Optional:
    * Parameter-Tuning
    * Custom Layers
