@@ -29,7 +29,7 @@ Mit TensorFlow und Keras bietet sich jetzt die Möglichkeit, diese hoch komplexe
 ## Installation
 Eine Anleitung zur Installation finden Sie [hier](INSTALLATION.md)
 
-## Link & Informationen
+## Links & Informationen
 Weitere Informationen zum Thema Künstliche Intelligenz, Maschinelles Lernen und Deep Learning finden Sie [hier](docs/README.md)
 
 
