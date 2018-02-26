@@ -6,7 +6,7 @@ RUN apt-get update && apt-get install -y \
     build-essential \
     && rm -rf /var/lib/apt/lists/*
 
-RUN ["mkdir", "workshop"]
+RUN ["mkdir", "notebooks"]
 
 ADD environment.yml environment.yml
 
@@ -19,6 +19,6 @@ COPY run_jupyter.sh /
 EXPOSE 8888 6006
 
 # Store notebooks in this mounted directory
-VOLUME /workshop
+VOLUME /notebooks
 
 CMD ["/run_jupyter.sh"]

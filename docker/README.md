@@ -10,7 +10,7 @@ docker build . -f <path/to/Dockerfile> -t dl_workshop_container
 
 Run Docker container:
 ```sh
-docker run -it -p 8888:8888 -p 6006:6006 -d -v <path/to/dl-workshop/workshop>:/workshop dl_workshop_container
+docker run -it -p 8888:8888 -p 6006:6006 -d -v <path/to/dl-workshop/notebooks>:/notebooks dl_workshop_container
 ```
 
 
@@ -18,7 +18,7 @@ We're using the following parameters:
 - ```-p 8888:8888``` to export Jupyter Web interface
 - ```-p 6006:6006``` to export Tensorboard Web interface
 - ```-d``` to run Docker container in background
-- ```-v workshop:/workshop``` to mount *workshop* folder inside Docker container
+- ```-v notebooks:/notebooks``` to mount *notebooks* folder inside Docker container
 
 
 The notebooks are available under the following url:
