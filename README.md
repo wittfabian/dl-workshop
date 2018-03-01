@@ -22,7 +22,7 @@ Mit TensorFlow und Keras bietet sich jetzt die Möglichkeit, diese hoch komplexe
 * Optional:
    * Parameter-Tuning
    * Custom Layers
-   * Multi Modal Networks
+   * Multi Model Networks
    * ...
    
    
