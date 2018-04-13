@@ -17,3 +17,9 @@ Two-Class Classification with Pima Indians Diabetes
 
 ## [mlp-exercise-02](mlp-exercise-02.ipynb)
 Two-Class Classification with Titanic - Machine Learning from Disaster
+
+## [mlp-exercise-03](mlp-exercise-03.ipynb)
+Multi-Class Classification with Emotions
+
+## [mlp-exercise-04](mlp-exercise-04.ipynb)
+Multi-Class Classification with Wine
