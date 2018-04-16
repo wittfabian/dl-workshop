@@ -5,3 +5,4 @@ dependencies:
   - pip:
     - keras==2.1.2
     - tensorflow==1.4.0
+    - livelossplot==0.1.6
