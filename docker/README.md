@@ -10,7 +10,7 @@ docker build . -f <path/to/Dockerfile> -t dl_workshop_container
 
 Run Docker container:
 ```sh
-docker run -it -p 8888:8888 -p 6006:6006 -d -v <path/to/dl-workshop/notebooks>:/notebooks dl_workshop_container
+docker run -it -p 8888:8888 -p 6006:6006 -d -v <absolute/path/to/dl-workshop/notebooks>:/notebooks dl_workshop_container
 ```
 
 
