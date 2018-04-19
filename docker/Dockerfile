@@ -15,6 +15,8 @@ RUN ["conda", "env", "create"]
 COPY conf/.jupyter /root/.jupyter
 COPY run_jupyter.sh /
 
+RUN ["chmod", "+x", "/run_jupyter.sh"]
+
 # Jupyter and Tensorboard ports
 EXPOSE 8888 6006
 
