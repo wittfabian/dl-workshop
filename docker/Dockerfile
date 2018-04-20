@@ -1,6 +1,10 @@
 FROM continuumio/anaconda3
 MAINTAINER "Fabian Witt"
 
+# for proxy usage
+# ENV http_proxy=
+# ENV https_proxy=
+
 RUN apt-get update && apt-get install -y \
     libpq-dev \
     build-essential \
@@ -24,3 +28,7 @@ EXPOSE 8888 6006
 VOLUME /notebooks
 
 CMD ["/run_jupyter.sh"]
+
+# for proxy usage
+# ENV http_proxy ""
+# ENV https_proxy ""
