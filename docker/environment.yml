@@ -1,11 +1,8 @@
-name: dl-workshop
-
 channels:
   - defaults
   - conda-forge
 
 dependencies:
-  - python=3.5
   - numpy
   - pandas
   - matplotlib

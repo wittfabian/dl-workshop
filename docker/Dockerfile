@@ -1,4 +1,4 @@
-FROM continuumio/anaconda3
+FROM continuumio/miniconda3
 MAINTAINER "Fabian Witt"
 
 # for proxy usage
@@ -14,7 +14,8 @@ RUN ["mkdir", "notebooks"]
 
 ADD environment.yml environment.yml
 
-RUN ["conda", "env", "create"]
+RUN /opt/conda/bin/conda env update -n base -f environment.yml && \
+    /opt/conda/bin/conda clean -tipsy
 
 COPY conf/.jupyter /root/.jupyter
 COPY run_jupyter.sh /
