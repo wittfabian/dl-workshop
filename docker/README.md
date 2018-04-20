@@ -8,7 +8,7 @@ Download and install the Docker Daemon from the [Docker Website](https://www.doc
 ### Proxy Configuration in the Docker Daemon
 Docker will download all the necessary files for the build process from the internet so it might be necessary to configure a proxy. You can switch to a manual proxy configuration in the Docker Daemon Settings under Proxies.
 
-## Build Docker Container
+## Build Docker Container locally
 Now you need to build the docker container. Navigate in the terminal into the repository directory and then into the docker directory ```dl-workshop/docker```.
 
 ### Proxy Configuration in the Dockerfile
@@ -21,11 +21,16 @@ Now execute in the ```dl-workshop/docker``` directory the following command.
 docker build . -f Dockerfile -t dl_workshop_container
 ```
 
-## Run Docker Container
+### Run Docker Container
 After the build process was successfully done you can run the container.
 
 ```sh
 docker run -it -p 8888:8888 -p 6006:6006 -d -v <absolute/path/to>/dl-workshop/notebooks:/notebooks dl_workshop_container
+```
+
+## Use Image from DockerHub
+```sh
+docker run -it -p 8888:8888 -p 6006:6006 -d -v <absolute/path/to>/dl-workshop/notebooks:/notebooks wittfabian/dl-workshop
 ```
 
 We're using the following parameters:
