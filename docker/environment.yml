@@ -6,7 +6,13 @@ channels:
 
 dependencies:
   - python=3.5
-  - anaconda
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - notebook
+  - jupyterlab
   - pip:
     - keras==2.1.2
     - tensorflow==1.4.0
