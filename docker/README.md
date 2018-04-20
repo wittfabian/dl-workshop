@@ -9,13 +9,13 @@ Download and install the Docker Daemon from the [Docker Website](https://www.doc
 Docker will download all the necessary files for the build process from the internet so it might be necessary to configure a proxy. You can switch to a manual proxy configuration in the Docker Daemon Settings under Proxies.
 
 ## Build Docker Container
-Now you need to build the docker container. Navigate in the terminal into the repository directory and then into the docker directory ```dlworkshop/docker```.
+Now you need to build the docker container. Navigate in the terminal into the repository directory and then into the docker directory ```dl-workshop/docker```.
 
 ### Proxy Configuration in the Dockerfile
-In case you need a proxy and you have set it correctly in the Docker Daemon, you need to set it in the Docker file as well. Uncomment the four corresponding lines under the ```# for proxy usage``` headlines and add your proxy in the first two lines. The last two lines remain empty so there is no need for a change.
+In case you need a proxy and you have set it correctly in the Docker Daemon, you need to set it in the Docker file as well. Uncomment the four corresponding lines under the both ```# for proxy usage``` headlines (on the top and bottom of the file) and add your proxy address in the first two lines. The last two lines remain empty so there is no need for a change.
 
 ### Execute the Build Command
-Now execute in the ```dlworkshop/docker``` directory the following command.
+Now execute in the ```dl-workshop/docker``` directory the following command.
 
 ```sh
 docker build . -f Dockerfile -t dl_workshop_container
@@ -25,7 +25,7 @@ docker build . -f Dockerfile -t dl_workshop_container
 After the build process was successfully done you can run the container.
 
 ```sh
-docker run -it -p 8888:8888 -p 6006:6006 -d -v <absolute/path/to>/dlworkshop/notebooks:/notebooks dl_workshop_container
+docker run -it -p 8888:8888 -p 6006:6006 -d -v <absolute/path/to>/dl-workshop/notebooks:/notebooks dl_workshop_container
 ```
 
 We're using the following parameters:
