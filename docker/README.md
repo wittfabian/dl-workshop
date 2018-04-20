@@ -4,7 +4,7 @@ We're building this container on top of [Debian 8 Docker container](https://hub.
 
 Build Docker container:
 ```sh
-docker build . -f <path/to/Dockerfile> -t dl_workshop_container
+docker build . -f <absolute/path/to/Dockerfile> -t dl_workshop_container
 ```
 
 
